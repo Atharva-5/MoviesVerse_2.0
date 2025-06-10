@@ -1,0 +1,20 @@
+GET
+1) Get watchlist of user by userID
+http://localhost:8081/watchlist/user/1
+
+POST
+2) Add movie to watchlist of user
+http://localhost:8081/watchlist/add
+
+--------------------------------
+POST
+1) Add User to Database (Register)
+http://localhost:8081/users/register
+
+POST 
+2) Login 
+http://localhost:8081/users/login
+
+GET
+3) get Login details by ID
+http://localhost:8081/users/1

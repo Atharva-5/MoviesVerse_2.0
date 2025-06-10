@@ -1,0 +1,9 @@
+.movie-card:hover {
+    transform: scale(1.07);
+    cursor: pointer;
+}
+
+.search img:hover {
+    transform: scale(1.2);
+    cursor: pointer;
+}
